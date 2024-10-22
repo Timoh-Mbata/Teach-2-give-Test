@@ -1,3 +1,4 @@
+/*creating the tables */
 create database Races;
 show databases;
 use races;
