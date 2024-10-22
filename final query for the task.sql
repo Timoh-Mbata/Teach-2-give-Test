@@ -1,3 +1,4 @@
+/*answering the query*/
 use races;
 SELECT 
     r.RACE_YEAR,
