@@ -1,3 +1,4 @@
+/*constraints to the sql tables*/
 show databases;
 use races;
 show tables;
